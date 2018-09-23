@@ -53,7 +53,7 @@ LD = /usr/bin/ld
 ```
 to
 ```
-LD      =       /usr/bin/gcc
+LD = /usr/bin/gcc
 ```
 and
 ```
