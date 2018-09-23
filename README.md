@@ -5,6 +5,7 @@ Resource comes from:
 https://people.engr.ncsu.edu/gjin2/Classes/501/Fall2018/assignments/PA0/pa0.html
 
 XINU is a small Unix-like operating system originally developed by Douglas Comer for instructional purposes at Purdue University. It is small enough so that we can understand it entirely within one semester. As part of lab assignment, we will re-implement or improve some apsects of XINU.
+
 Step 0: Installing QEMU
 
 Following the instructions at the xv6 site to install QEMU.
